@@ -1,0 +1,1863 @@
+[
+  [
+    {
+      "region" : "Africa",
+      "place" : "Algeria",
+      "code" : "ag",
+      "apiname" : "africa",
+      "flagcode" : "DZ"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Angola",
+      "code" : "ao",
+      "apiname" : "africa",
+      "flagcode" : "AO"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Benin",
+      "code" : "bn",
+      "apiname" : "africa",
+      "flagcode" : "BJ"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Botswana",
+      "code" : "bc",
+      "apiname" : "africa",
+      "flagcode" : "BW"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Burkina Faso",
+      "code" : "uv",
+      "apiname" : "africa",
+      "flagcode" : "BF"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Burundi",
+      "code" : "by",
+      "apiname" : "africa",
+      "flagcode" : "BI"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Cameroon",
+      "code" : "cm",
+      "apiname" : "africa",
+      "flagcode" : "CM"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Cape Verde",
+      "code" : "cv",
+      "apiname" : "africa",
+      "flagcode" : "CV"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Central African Republic",
+      "code" : "ct",
+      "apiname" : "africa",
+      "flagcode" : "CF"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Chad",
+      "code" : "cd",
+      "apiname" : "africa",
+      "flagcode" : "TD"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Comoros",
+      "code" : "cn",
+      "apiname" : "africa",
+      "flagcode" : "KM"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Democratic Republic of Congo",
+      "code" : "cg",
+      "apiname" : "africa",
+      "flagcode" : "CD"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Congo",
+      "code" : "cf",
+      "apiname" : "africa",
+      "flagcode" : "CG"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Cote d'Ivoire (Ivory Coast)",
+      "code" : "iv",
+      "apiname" : "africa",
+      "flagcode" : "CI"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Djibouti",
+      "code" : "dj",
+      "apiname" : "africa",
+      "flagcode" : "DJ"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Egypt",
+      "code" : "eg",
+      "apiname" : "africa",
+      "flagcode" : "EG"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Equatorial Guinea",
+      "code" : "ek",
+      "apiname" : "africa",
+      "flagcode" : "GQ"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Eritrea",
+      "code" : "er",
+      "apiname" : "africa",
+      "flagcode" : "ER"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Ethiopia",
+      "code" : "et",
+      "apiname" : "africa",
+      "flagcode" : "ET"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Gabon",
+      "code" : "gb",
+      "apiname" : "africa",
+      "flagcode" : "GA"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Gambia",
+      "code" : "ga",
+      "apiname" : "africa",
+      "flagcode" : "GM"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Ghana",
+      "code" : "gh",
+      "apiname" : "africa",
+      "flagcode" : "GH"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Guinea",
+      "code" : "gv",
+      "apiname" : "africa",
+      "flagcode" : "GN"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Guinea-Bissau",
+      "code" : "pu",
+      "apiname" : "africa",
+      "flagcode" : "GW"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Kenya",
+      "code" : "ke",
+      "apiname" : "africa",
+      "flagcode" : "KE"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Lesotho",
+      "code" : "lt",
+      "apiname" : "africa",
+      "flagcode" : "LS"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Liberia",
+      "code" : "li",
+      "apiname" : "africa",
+      "flagcode" : "LR"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Libya",
+      "code" : "ly",
+      "apiname" : "africa",
+      "flagcode" : "LY"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Madagascar",
+      "code" : "ma",
+      "apiname" : "africa",
+      "flagcode" : "MG"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Malawi",
+      "code" : "mi",
+      "apiname" : "africa",
+      "flagcode" : "MW"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Mali",
+      "code" : "ml",
+      "apiname" : "africa",
+      "flagcode" : "ML"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Mauritania",
+      "code" : "mr",
+      "apiname" : "africa",
+      "flagcode" : "MR"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Mauritius",
+      "code" : "mp",
+      "apiname" : "africa",
+      "flagcode" : "MU"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Morocco",
+      "code" : "mo",
+      "apiname" : "africa",
+      "flagcode" : "MA"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Mozambique",
+      "code" : "mz",
+      "apiname" : "africa",
+      "flagcode" : "MZ"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Namibia",
+      "code" : "wa",
+      "apiname" : "africa",
+      "flagcode" : "NA"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Niger",
+      "code" : "ng",
+      "apiname" : "africa",
+      "flagcode" : "NE"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Nigeria",
+      "code" : "ni",
+      "apiname" : "africa",
+      "flagcode" : "NG"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Rwanda",
+      "code" : "rw",
+      "apiname" : "africa",
+      "flagcode" : "RW"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Sao Tome and Principe",
+      "code" : "tp",
+      "apiname" : "africa",
+      "flagcode" : "ST"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Senegal",
+      "code" : "sg",
+      "apiname" : "africa",
+      "flagcode" : "SN"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Seychelles",
+      "code" : "se",
+      "apiname" : "africa",
+      "flagcode" : "SC"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Sierra Leone",
+      "code" : "sl",
+      "apiname" : "africa",
+      "flagcode" : "SL"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Somalia",
+      "code" : "so",
+      "apiname" : "africa",
+      "flagcode" : "SO"
+    },
+    {
+      "region" : "Africa",
+      "place" : "South Africa",
+      "code" : "sf",
+      "apiname" : "africa",
+      "flagcode" : "ZA"
+    },
+    {
+      "region" : "Africa",
+      "place" : "South Sudan",
+      "code" : "od",
+      "apiname" : "africa",
+      "flagcode" : "SS"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Sudan",
+      "code" : "su",
+      "apiname" : "africa",
+      "flagcode" : "SD"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Swaziland",
+      "code" : "wz",
+      "apiname" : "africa",
+      "flagcode" : "SZ"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Tanzania",
+      "code" : "tz",
+      "apiname" : "africa",
+      "flagcode" : "TZ"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Togo",
+      "code" : "to",
+      "apiname" : "africa",
+      "flagcode" : "TG"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Tunisia",
+      "code" : "ts",
+      "apiname" : "africa",
+      "flagcode" : "TN"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Uganda",
+      "code" : "ug",
+      "apiname" : "africa",
+      "flagcode" : "UG"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Zambia",
+      "code" : "za",
+      "apiname" : "africa",
+      "flagcode" : "ZM"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Zimbabwe",
+      "code" : "zi",
+      "apiname" : "africa",
+      "flagcode" : "ZW"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Saint Helena",
+      "code" : "sh",
+      "apiname" : "africa",
+      "flagcode" : "SH"
+    },
+    {
+      "region" : "Africa",
+      "place" : "Western Sahara",
+      "code" : "wi",
+      "apiname" : "africa",
+      "flagcode" : ""
+    }
+  ],
+  [
+    {
+      "region" : "Antarctica",
+      "place" : "Heard Island and McDonald Islands",
+      "code" : "hm",
+      "apiname" : "antarctica",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Antarctica",
+      "place" : "French Southern and Antarctic Lands",
+      "code" : "fs",
+      "apiname" : "antarctica",
+      "flagcode" : "TF"
+    },
+    {
+      "region" : "Antarctica",
+      "place" : "Bouvet Island",
+      "code" : "bv",
+      "apiname" : "antarctica",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Antarctica",
+      "place" : "Antarctica",
+      "code" : "ay",
+      "apiname" : "antarctica",
+      "flagcode" : ""
+    }
+  ],
+  [
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Antigua and Barbuda",
+      "code" : "ac",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "AG"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Bahamas",
+      "code" : "bf",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "BS"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Barbados",
+      "code" : "bb",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "BB"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Belize",
+      "code" : "bh",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "BZ"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Costa Rica",
+      "code" : "cs",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "CR"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Cuba",
+      "code" : "cu",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "CU"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Dominica",
+      "code" : "do",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "DM"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Dominican Republic",
+      "code" : "dr",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "DO"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "El Salvador",
+      "code" : "es",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "SV"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Grenada",
+      "code" : "gj",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "GD"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Guatemala",
+      "code" : "gt",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "GT"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Haiti",
+      "code" : "ha",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "HT"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Honduras",
+      "code" : "ho",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "HN"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Jamaica",
+      "code" : "jm",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "JM"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Nicaragua",
+      "code" : "nu",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "NI"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Panama",
+      "code" : "pm",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "PA"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "St. Kitts and Nevis",
+      "code" : "sc",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "KN"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Saint Lucia",
+      "code" : "st",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "LC"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Saint Vincent and the Grenadines",
+      "code" : "vc",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "VC"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Trinidad and Tobago",
+      "code" : "td",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "TT"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Saint Barthelemy",
+      "code" : "tb",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Saint Martin",
+      "code" : "rn",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Aruba",
+      "code" : "aa",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "AW"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Curacao",
+      "code" : "cc",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "CW"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Sint Maarten",
+      "code" : "sk",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "SX"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Anguilla",
+      "code" : "av",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "AI"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "British Virgin Islands",
+      "code" : "vi",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "VG"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Cayman Islands",
+      "code" : "cj",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "KY"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Montserrat",
+      "code" : "mh",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "MS"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Turks and Caicos Islands",
+      "code" : "tk",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "TC"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Navassa Island",
+      "code" : "bq",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "Puerto Rico",
+      "code" : "rq",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "PR"
+    },
+    {
+      "region" : "Central America and the Caribbean",
+      "place" : "US Virgin Islands",
+      "code" : "vq",
+      "apiname" : "central-america-n-caribbean",
+      "flagcode" : "VI"
+    }
+  ],
+  [
+    {
+      "region" : "Central Asia",
+      "place" : "Kazakhstan",
+      "code" : "kz",
+      "apiname" : "central-asia",
+      "flagcode" : "KZ"
+    },
+    {
+      "region" : "Central Asia",
+      "place" : "Kyrgyzstan",
+      "code" : "kg",
+      "apiname" : "central-asia",
+      "flagcode" : "KG"
+    },
+    {
+      "region" : "Central Asia",
+      "place" : "Russia",
+      "code" : "rs",
+      "apiname" : "central-asia",
+      "flagcode" : "RU"
+    },
+    {
+      "region" : "Central Asia",
+      "place" : "Tajikistan",
+      "code" : "ti",
+      "apiname" : "central-asia",
+      "flagcode" : "TJ"
+    },
+    {
+      "region" : "Central Asia",
+      "place" : "Turkmenistan",
+      "code" : "tx",
+      "apiname" : "central-asia",
+      "flagcode" : "TM"
+    },
+    {
+      "region" : "Central Asia",
+      "place" : "Uzbekistan",
+      "code" : "uz",
+      "apiname" : "central-asia",
+      "flagcode" : "UZ"
+    }
+  ],
+  [
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Brunei",
+      "code" : "bx",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "BN"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Burma",
+      "code" : "bm",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "MM"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Cambodia",
+      "code" : "cb",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "KH"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "China",
+      "code" : "ch",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "CN"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Indonesia",
+      "code" : "id",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "ID"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Japan",
+      "code" : "ja",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "JP"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "North Korea",
+      "code" : "kn",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "KP"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "South Korea",
+      "code" : "ks",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "KR"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Laos",
+      "code" : "la",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "LA"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Malaysia",
+      "code" : "my",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "MY"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Mongolia",
+      "code" : "mg",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "MN"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Papua New Guinea",
+      "code" : "pp",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "PG"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Philippines",
+      "code" : "rp",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "PH"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Singapore",
+      "code" : "sn",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "SG"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Thailand",
+      "code" : "th",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "TH"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Timor-Leste",
+      "code" : "tt",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "TL"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Vietnam",
+      "code" : "vm",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "VN"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Taiwan",
+      "code" : "tw",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "TW"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Hong Kong",
+      "code" : "hk",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "HK"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Macau",
+      "code" : "mc",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : "MO"
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Paracel Islands",
+      "code" : "pf",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : ""
+    },
+    {
+      "region" : "East and Southeast Asia",
+      "place" : "Spratly Islands",
+      "code" : "pg",
+      "apiname" : "east-n-southeast-asia",
+      "flagcode" : ""
+    }
+  ],
+  [
+    {
+      "region" : "Europe",
+      "place" : "Albania",
+      "code" : "al",
+      "apiname" : "europe",
+      "flagcode" : "AL"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Andorra",
+      "code" : "an",
+      "apiname" : "europe",
+      "flagcode" : "AD"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Austria",
+      "code" : "au",
+      "apiname" : "europe",
+      "flagcode" : "AT"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Belarus",
+      "code" : "bo",
+      "apiname" : "europe",
+      "flagcode" : "BY"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Belgium",
+      "code" : "be",
+      "apiname" : "europe",
+      "flagcode" : "BE"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Bosnia and Herzegovina\r\n",
+      "code" : "bk",
+      "apiname" : "europe",
+      "flagcode" : "BA"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Bulgaria",
+      "code" : "bu",
+      "apiname" : "europe",
+      "flagcode" : "BG"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Croatia",
+      "code" : "hr",
+      "apiname" : "europe",
+      "flagcode" : "HR"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Cyprus",
+      "code" : "cy",
+      "apiname" : "europe",
+      "flagcode" : "CY"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Czech Republic",
+      "code" : "ez",
+      "apiname" : "europe",
+      "flagcode" : "CZ"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Denmark",
+      "code" : "da",
+      "apiname" : "europe",
+      "flagcode" : "DK"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Estonia",
+      "code" : "en",
+      "apiname" : "europe",
+      "flagcode" : "EE"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Finland",
+      "code" : "fi",
+      "apiname" : "europe",
+      "flagcode" : "FI"
+    },
+    {
+      "region" : "Europe",
+      "place" : "France",
+      "code" : "fr",
+      "apiname" : "europe",
+      "flagcode" : "FR"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Germany",
+      "code" : "gm",
+      "apiname" : "europe",
+      "flagcode" : "DE"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Greece",
+      "code" : "gr",
+      "apiname" : "europe",
+      "flagcode" : "GR"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Hungary",
+      "code" : "hu",
+      "apiname" : "europe",
+      "flagcode" : "HU"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Iceland",
+      "code" : "ic",
+      "apiname" : "europe",
+      "flagcode" : "IS"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Ireland",
+      "code" : "ei",
+      "apiname" : "europe",
+      "flagcode" : "IE"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Italy",
+      "code" : "it",
+      "apiname" : "europe",
+      "flagcode" : "IT"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Kosovo",
+      "code" : "kv",
+      "apiname" : "europe",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Europe",
+      "place" : "Latvia",
+      "code" : "lg",
+      "apiname" : "europe",
+      "flagcode" : "LV"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Liechtenstein",
+      "code" : "ls",
+      "apiname" : "europe",
+      "flagcode" : "LI"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Lithuania",
+      "code" : "lh",
+      "apiname" : "europe",
+      "flagcode" : "LT"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Luxembourg",
+      "code" : "lu",
+      "apiname" : "europe",
+      "flagcode" : "LU"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Macedonia",
+      "code" : "mk",
+      "apiname" : "europe",
+      "flagcode" : "MK"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Malta",
+      "code" : "mt",
+      "apiname" : "europe",
+      "flagcode" : "MT"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Moldova",
+      "code" : "md",
+      "apiname" : "europe",
+      "flagcode" : "MD"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Monaco",
+      "code" : "mn",
+      "apiname" : "europe",
+      "flagcode" : "MC"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Montenegro",
+      "code" : "mj",
+      "apiname" : "europe",
+      "flagcode" : "ME"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Netherlands",
+      "code" : "nl",
+      "apiname" : "europe",
+      "flagcode" : "NL"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Norway",
+      "code" : "no",
+      "apiname" : "europe",
+      "flagcode" : "NO"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Poland",
+      "code" : "pl",
+      "apiname" : "europe",
+      "flagcode" : "PL"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Portugal",
+      "code" : "po",
+      "apiname" : "europe",
+      "flagcode" : "PT"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Romania",
+      "code" : "ro",
+      "apiname" : "europe",
+      "flagcode" : "RO"
+    },
+    {
+      "region" : "Europe",
+      "place" : "San Marino",
+      "code" : "sm",
+      "apiname" : "europe",
+      "flagcode" : "SM"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Serbia",
+      "code" : "ri",
+      "apiname" : "europe",
+      "flagcode" : "RS"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Slovakia",
+      "code" : "lo",
+      "apiname" : "europe",
+      "flagcode" : "SK"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Slovenia",
+      "code" : "si",
+      "apiname" : "europe",
+      "flagcode" : "SI"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Spain",
+      "code" : "sp",
+      "apiname" : "europe",
+      "flagcode" : "ES"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Sweden",
+      "code" : "sw",
+      "apiname" : "europe",
+      "flagcode" : "SE"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Switzerland",
+      "code" : "sz",
+      "apiname" : "europe",
+      "flagcode" : "CH"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Ukraine",
+      "code" : "up",
+      "apiname" : "europe",
+      "flagcode" : "UA"
+    },
+    {
+      "region" : "Europe",
+      "place" : "United Kingdom",
+      "code" : "uk",
+      "apiname" : "europe",
+      "flagcode" : "GB"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Vatican City",
+      "code" : "vt",
+      "apiname" : "europe",
+      "flagcode" : "VA"
+    },
+    {
+      "region" : "Europe",
+      "place" : "European Union",
+      "code" : "ee",
+      "apiname" : "europe",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Europe",
+      "place" : "Faroe Islands",
+      "code" : "fo",
+      "apiname" : "europe",
+      "flagcode" : "FO"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Jan Mayen",
+      "code" : "jn",
+      "apiname" : "europe",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Europe",
+      "place" : "Svalbard",
+      "code" : "sv",
+      "apiname" : "europe",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Europe",
+      "place" : "Akrotiri (Sovereign Base)",
+      "code" : "ax",
+      "apiname" : "europe",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Europe",
+      "place" : "Dhekelia (Sovereign Base)",
+      "code" : "dx",
+      "apiname" : "europe",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Europe",
+      "place" : "Gibraltar",
+      "code" : "gi",
+      "apiname" : "europe",
+      "flagcode" : "GI"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Guernsey",
+      "code" : "gk",
+      "apiname" : "europe",
+      "flagcode" : "GG"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Jersey",
+      "code" : "je",
+      "apiname" : "europe",
+      "flagcode" : "JE"
+    },
+    {
+      "region" : "Europe",
+      "place" : "Isle of Man",
+      "code" : "im",
+      "apiname" : "europe",
+      "flagcode" : "IM"
+    }
+  ],
+  [
+    {
+      "region" : "Middle East",
+      "place" : "Armenia",
+      "code" : "am",
+      "apiname" : "middle-east",
+      "flagcode" : "AM"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Azerbaijan",
+      "code" : "aj",
+      "apiname" : "middle-east",
+      "flagcode" : "AZ"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Bahrain",
+      "code" : "ba",
+      "apiname" : "middle-east",
+      "flagcode" : "BH"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Georgia",
+      "code" : "gg",
+      "apiname" : "middle-east",
+      "flagcode" : "GE"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Iran",
+      "code" : "ir",
+      "apiname" : "middle-east",
+      "flagcode" : "IR"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Iraq",
+      "code" : "iz",
+      "apiname" : "middle-east",
+      "flagcode" : "IQ"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Israel",
+      "code" : "is",
+      "apiname" : "middle-east",
+      "flagcode" : "IL"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Jordan",
+      "code" : "jo",
+      "apiname" : "middle-east",
+      "flagcode" : "JO"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Kuwait",
+      "code" : "ku",
+      "apiname" : "middle-east",
+      "flagcode" : "KW"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Lebanon",
+      "code" : "le",
+      "apiname" : "middle-east",
+      "flagcode" : "LB"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Oman",
+      "code" : "mu",
+      "apiname" : "middle-east",
+      "flagcode" : "OM"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Qatar",
+      "code" : "qa",
+      "apiname" : "middle-east",
+      "flagcode" : "QA"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Saudi Arabia",
+      "code" : "sa",
+      "apiname" : "middle-east",
+      "flagcode" : "SA"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Syria",
+      "code" : "sy",
+      "apiname" : "middle-east",
+      "flagcode" : "SY"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Turkey",
+      "code" : "tu",
+      "apiname" : "middle-east",
+      "flagcode" : "TR"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "United Arab Emirates",
+      "code" : "ae",
+      "apiname" : "middle-east",
+      "flagcode" : "AE"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Yemen",
+      "code" : "ym",
+      "apiname" : "middle-east",
+      "flagcode" : "YE"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "Gaza Strip",
+      "code" : "gz",
+      "apiname" : "middle-east",
+      "flagcode" : "PS"
+    },
+    {
+      "region" : "Middle East",
+      "place" : "West Bank",
+      "code" : "we",
+      "apiname" : "middle-east",
+      "flagcode" : "PS"
+    }
+  ],
+  [
+    {
+      "region" : "North America",
+      "place" : "Canada",
+      "code" : "ca",
+      "apiname" : "north-america",
+      "flagcode" : "CA"
+    },
+    {
+      "region" : "North America",
+      "place" : "Mexico",
+      "code" : "mx",
+      "apiname" : "north-america",
+      "flagcode" : "MX"
+    },
+    {
+      "region" : "North America",
+      "place" : "United States",
+      "code" : "us",
+      "apiname" : "north-america",
+      "flagcode" : "US"
+    },
+    {
+      "region" : "North America",
+      "place" : "Greenland",
+      "code" : "gl",
+      "apiname" : "north-america",
+      "flagcode" : "GL"
+    },
+    {
+      "region" : "North America",
+      "place" : "Clipperton Island",
+      "code" : "ip",
+      "apiname" : "north-america",
+      "flagcode" : ""
+    },
+    {
+      "region" : "North America",
+      "place" : "Saint Pierre and Miquelon",
+      "code" : "sb",
+      "apiname" : "north-america",
+      "flagcode" : ""
+    },
+    {
+      "region" : "North America",
+      "place" : "Bermuda",
+      "code" : "bd",
+      "apiname" : "north-america",
+      "flagcode" : "BM"
+    }
+  ],
+  [
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Australia",
+      "code" : "as",
+      "apiname" : "australia-oceania",
+      "flagcode" : "AU"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Fiji",
+      "code" : "fj",
+      "apiname" : "australia-oceania",
+      "flagcode" : "FJ"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Kiribati",
+      "code" : "kr",
+      "apiname" : "australia-oceania",
+      "flagcode" : "KI"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Marshall Islands",
+      "code" : "rm",
+      "apiname" : "australia-oceania",
+      "flagcode" : "MH"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Micronesia",
+      "code" : "fm",
+      "apiname" : "australia-oceania",
+      "flagcode" : "FM"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Nauru",
+      "code" : "nr",
+      "apiname" : "australia-oceania",
+      "flagcode" : "NR"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "New Zealand",
+      "code" : "nz",
+      "apiname" : "australia-oceania",
+      "flagcode" : "NZ"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Palau",
+      "code" : "ps",
+      "apiname" : "australia-oceania",
+      "flagcode" : "PW"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Samoa",
+      "code" : "ws",
+      "apiname" : "australia-oceania",
+      "flagcode" : "WS"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Solomon Islands",
+      "code" : "bp",
+      "apiname" : "australia-oceania",
+      "flagcode" : "SB"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Tonga",
+      "code" : "tn",
+      "apiname" : "australia-oceania",
+      "flagcode" : "TO"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Tuvalu",
+      "code" : "tv",
+      "apiname" : "australia-oceania",
+      "flagcode" : "TV"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Vanuatu",
+      "code" : "nh",
+      "apiname" : "australia-oceania",
+      "flagcode" : "VU"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Ashmore and Cartier Islands",
+      "code" : "at",
+      "apiname" : "australia-oceania",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Christmas Island",
+      "code" : "kt",
+      "apiname" : "australia-oceania",
+      "flagcode" : "CX"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Cocos (Keeling) Island",
+      "code" : "ck",
+      "apiname" : "australia-oceania",
+      "flagcode" : "CC"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Coral Sea Islands",
+      "code" : "cr",
+      "apiname" : "australia-oceania",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Norfolk Island",
+      "code" : "nf",
+      "apiname" : "australia-oceania",
+      "flagcode" : "NF"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "French Polynesia",
+      "code" : "fp",
+      "apiname" : "australia-oceania",
+      "flagcode" : "PF"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "New Caledonia",
+      "code" : "nc",
+      "apiname" : "australia-oceania",
+      "flagcode" : "NC"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Wallis and Futuna",
+      "code" : "wf",
+      "apiname" : "australia-oceania",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Cook Islands",
+      "code" : "cw",
+      "apiname" : "australia-oceania",
+      "flagcode" : "CK"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Niue",
+      "code" : "ne",
+      "apiname" : "australia-oceania",
+      "flagcode" : "NU"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Tokelau",
+      "code" : "tl",
+      "apiname" : "australia-oceania",
+      "flagcode" : "TK"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Pitcairn Islands",
+      "code" : "pc",
+      "apiname" : "australia-oceania",
+      "flagcode" : "PN"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "American Samoa",
+      "code" : "aq",
+      "apiname" : "australia-oceania",
+      "flagcode" : "AS"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Guam",
+      "code" : "gq",
+      "apiname" : "australia-oceania",
+      "flagcode" : "GU"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Northern Mariana Islands",
+      "code" : "cq",
+      "apiname" : "australia-oceania",
+      "flagcode" : "MP"
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : "Wake Island",
+      "code" : "wq",
+      "apiname" : "australia-oceania",
+      "flagcode" : ""
+    },
+    {
+      "region" : "Australia and Oceania",
+      "place" : [
+        "US Pacific Island Wildlife Refuges (Baker Island",
+        "Howland Island",
+        "Jarvis Island",
+        "Johnston Atoll",
+        "Kingman Reef",
+        "Midway Islands",
+        "Palmyra Atoll)"
+      ],
+      "code" : "um",
+      "apiname" : "australia-oceania",
+      "flagcode" : ""
+    }
+  ],
+  [
+    {
+      "region" : "South America",
+      "place" : "Argentina",
+      "code" : "ar",
+      "apiname" : "south-america",
+      "flagcode" : "AR"
+    },
+    {
+      "region" : "South America",
+      "place" : "Bolivia",
+      "code" : "bl",
+      "apiname" : "south-america",
+      "flagcode" : "BO"
+    },
+    {
+      "region" : "South America",
+      "place" : "Brazil",
+      "code" : "br",
+      "apiname" : "south-america",
+      "flagcode" : "BR"
+    },
+    {
+      "region" : "South America",
+      "place" : "Chile",
+      "code" : "ci",
+      "apiname" : "south-america",
+      "flagcode" : "CL"
+    },
+    {
+      "region" : "South America",
+      "place" : "Colombia",
+      "code" : "co",
+      "apiname" : "south-america",
+      "flagcode" : "CO"
+    },
+    {
+      "region" : "South America",
+      "place" : "Ecuador",
+      "code" : "ec",
+      "apiname" : "south-america",
+      "flagcode" : "EC"
+    },
+    {
+      "region" : "South America",
+      "place" : "Guyana",
+      "code" : "gy",
+      "apiname" : "south-america",
+      "flagcode" : "GY"
+    },
+    {
+      "region" : "South America",
+      "place" : "Paraguay",
+      "code" : "pa",
+      "apiname" : "south-america",
+      "flagcode" : "PY"
+    },
+    {
+      "region" : "South America",
+      "place" : "Peru",
+      "code" : "pe",
+      "apiname" : "south-america",
+      "flagcode" : "PE"
+    },
+    {
+      "region" : "South America",
+      "place" : "Suriname",
+      "code" : "ns",
+      "apiname" : "south-america",
+      "flagcode" : "SR"
+    },
+    {
+      "region" : "South America",
+      "place" : "Uruguay",
+      "code" : "uy",
+      "apiname" : "south-america",
+      "flagcode" : "UY"
+    },
+    {
+      "region" : "South America",
+      "place" : "Venezuela",
+      "code" : "ve",
+      "apiname" : "south-america",
+      "flagcode" : "VE"
+    },
+    {
+      "region" : "South America",
+      "place" : "Falkland Islands",
+      "code" : "fk",
+      "apiname" : "south-america",
+      "flagcode" : "FK"
+    },
+    {
+      "region" : "South America",
+      "place" : "South Georgia and the South Sandwich Islands",
+      "code" : "sx",
+      "apiname" : "south-america",
+      "flagcode" : "GS"
+    }
+  ],
+  [
+    {
+      "region" : "South Asia",
+      "place" : "Afghanistan",
+      "code" : "af",
+      "apiname" : "south-asia",
+      "flagcode" : "AF"
+    },
+    {
+      "region" : "South Asia",
+      "place" : "Bangladesh",
+      "code" : "bg",
+      "apiname" : "south-asia",
+      "flagcode" : "BD"
+    },
+    {
+      "region" : "South Asia",
+      "place" : "Bhutan",
+      "code" : "bt",
+      "apiname" : "south-asia",
+      "flagcode" : "BT"
+    },
+    {
+      "region" : "South Asia",
+      "place" : "India",
+      "code" : "in",
+      "apiname" : "south-asia",
+      "flagcode" : "IN"
+    },
+    {
+      "region" : "South Asia",
+      "place" : "Maldives",
+      "code" : "mv",
+      "apiname" : "south-asia",
+      "flagcode" : "MV"
+    },
+    {
+      "region" : "South Asia",
+      "place" : "Nepal",
+      "code" : "np",
+      "apiname" : "south-asia",
+      "flagcode" : "NP"
+    },
+    {
+      "region" : "South Asia",
+      "place" : "Pakistan",
+      "code" : "pk",
+      "apiname" : "south-asia",
+      "flagcode" : "PK"
+    },
+    {
+      "region" : "South Asia",
+      "place" : "Sri Lanka",
+      "code" : "ce",
+      "apiname" : "south-asia",
+      "flagcode" : "LK"
+    },
+    {
+      "region" : "South Asia",
+      "place" : "British Indian Ocean Territory",
+      "code" : "io",
+      "apiname" : "south-asia",
+      "flagcode" : "IO"
+    }
+  ],
+  [
+    {
+      "region" : "The Oceans",
+      "place" : "Arctic Ocean",
+      "code" : "xq",
+      "apiname" : "oceans",
+      "flagcode" : ""
+    },
+    {
+      "region" : "The Oceans",
+      "place" : "Atlantic Ocean",
+      "code" : "zh",
+      "apiname" : "oceans",
+      "flagcode" : ""
+    },
+    {
+      "region" : "The Oceans",
+      "place" : "Indian Ocean",
+      "code" : "xo",
+      "apiname" : "oceans",
+      "flagcode" : ""
+    },
+    {
+      "region" : "The Oceans",
+      "place" : "Pacific Ocean",
+      "code" : "zn",
+      "apiname" : "oceans",
+      "flagcode" : ""
+    },
+    {
+      "region" : "The Oceans",
+      "place" : "Southern Ocean",
+      "code" : "oo",
+      "apiname" : "oceans",
+      "flagcode" : ""
+    }
+  ],
+  [
+    {
+      "region" : "The World",
+      "place" : "World",
+      "code" : "xx",
+      "apiname" : "world",
+      "flagcode" : ""
+    }
+  ]
+]
